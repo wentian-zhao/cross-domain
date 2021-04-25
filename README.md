@@ -1,6 +1,6 @@
 # cross-domain
 
-Implement of `Cross-Domain Image Captioning via Cross-Modal Retrieval`  <!-- linebreak -->
+Implement of `Cross-Domain Image Captioning via Cross-Modal Retrieval` - <!-- linebreak -->
 `and Model Adaptation`
 
 ### Requirements:

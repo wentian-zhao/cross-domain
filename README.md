@@ -13,7 +13,7 @@ Implement of `Cross-Domain Image Captioning via Cross-Modal Retrieval`  <!-- lin
   * extract features for training: run `src/utils/extract_image_feature.py`
   * train image captioning model: `src/main/caption/train_image.py`
   * may need to put the content of [coco-caption](https://github.com/tylin/coco-caption) in `src/coco-caption` and change java path in `src/config.py` for evaluation
-  The working directory is `src`
+  * The working directory is `src`
   
 #### Citation
   ```
